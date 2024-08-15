@@ -1,4 +1,5 @@
 import styles from '../styles/Projects.module.css';
+import Image from 'next/image';
 
 export default function Projects() {
     return (
@@ -40,8 +41,8 @@ export default function Projects() {
                         <rect width="445" height="489" rx="12" fill="#FFEBDB" />
                     </svg>
                     </div>
-                    <div ><img src="/images/img5.png" alt="Profile" className={styles.design5} /></div>
-                    <div ><img src="/images/img5.png" alt="Profile" className={styles.design6} /></div>
+                    <div ><Image src="/images/img5.png" alt="Profile" className={styles.design5} width={274} height={405} layout="fixed" priority={true}/></div>
+                    <div ><Image src="/images/img5.png" alt="Profile" className={styles.design6} width={274} height={489} layout="fixed" priority={true} /></div>
 
                 </div>
                 <div className={styles.web2}>Web Design </div>
@@ -55,8 +56,8 @@ export default function Projects() {
                     <rect width="445" height="489" rx="12" fill="#FFEBDB" />
                 </svg>
                 </div>
-                <div ><img src="/images/img4.png" alt="Profile" className={styles.design3} /></div>
-                <div ><img src="/images/img4.png" alt="Profile" className={styles.design4} /></div>
+                <div ><Image src="/images/img4.png" alt="Profile" className={styles.design3} width={274} height={420} layout="fixed" priority={true} /></div>
+                <div ><Image src="/images/img4.png" alt="Profile" className={styles.design4} width={274} height={489} layout="fixed" priority={true}/></div>
                 </div>
                 <div className={styles.web1}>Web Design </div>
                 <div className={styles.bus}>Business Landing Page Design  </div>
@@ -70,8 +71,8 @@ export default function Projects() {
                     <rect width="445" height="489" rx="12" fill="#FFEBDB" />
                 </svg>
                 </div>
-                <div ><img src="/images/img3.png" alt="Profile" className={styles.design1} /></div>
-                <div ><img src="/images/img3.png" alt="Profile" className={styles.design2} /></div>
+                <div ><Image src="/images/img3.png" alt="Profile" className={styles.design1} width={274} height={412} layout="fixed" priority={true} /></div>
+                <div ><Image src="/images/img3.png" alt="Profile" className={styles.design2} width={274} height={489} layout="fixed" priority={true}/></div>
                 </div>
                 <div className={styles.web}>Web Design </div>
                 <div className={styles.ecom}>Ecom Web Page Design </div>

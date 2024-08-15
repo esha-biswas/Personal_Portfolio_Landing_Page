@@ -1,4 +1,5 @@
 import styles from '../styles/Testimonials.module.css';
+import Image from 'next/image';
 
 export default function Testimonials() {
     return (
@@ -33,7 +34,7 @@ export default function Testimonials() {
                 </svg>
                 </div>
                 <div  >
-                    <img src="/images/img1.jpg" alt="Client 1" className={styles.ellipse3} />
+                    <Image src="/images/img1.jpg" alt="Client 1" className={styles.ellipse3} width={235} height={235} layout="fixed" priority={true}/>
                 </div>
                 <div className={styles.testimonial3}>
                 
@@ -53,7 +54,7 @@ export default function Testimonials() {
                 </svg>
                 </div>
                 <div >
-                    <img src="/images/img2.jpg" alt="Client 1" className={styles.ellipse2} />
+                    <Image src="/images/img2.jpg" alt="Client 1" className={styles.ellipse2} width={235} height={235} layout="fixed" priority={true}/>
                     
                     
                     </div>

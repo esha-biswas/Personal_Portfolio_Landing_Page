@@ -1,7 +1,13 @@
 import styles from '../styles/Hero.module.css';
 import React from 'react';
+import Link from 'next/link';
+import Image from 'next/image';
 import Contact from '../components/Contact';
 export default function Home() {
+    <nav>
+      <Link href="#cont">Contact</Link>
+      </nav>
+
     const scrollTohire=()=>{
         const targetoption=document.getElementById("cont")
         if (targetoption) {
@@ -9,6 +15,7 @@ export default function Home() {
          }
        };
     return (
+        
         <section className={styles.hero} id='h'>
             <div className={styles.heroheader} >
 
@@ -59,10 +66,10 @@ export default function Home() {
                                 </defs>
                             </svg>
                         </div>
-                        <div ><img src="/images/hero-image.png" alt="UI/UX Designer" className={styles.img} /></div>
+                        <div ><Image src="/images/hero-image.png" alt="UI/UX Designer" className={styles.img} width={538} height={352.41} layout="fixed" priority={true} /></div>
                         <div className={styles.mask}>
                             <div className={styles.ellipse1}>
-                                <img src="/images/hero-image.png" alt="UI/UX Designer" className={styles.img1} />
+                                <Image src="/images/hero-image.png" alt="UI/UX Designer" className={styles.img1}  width={537} height={617.24} layout="fixed" priority={true} />
                             </div>
                         </div>
 

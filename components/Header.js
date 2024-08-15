@@ -11,8 +11,17 @@ import Footer from '../components/Footer';
 
 
 
-
 export default function Header() {
+  <nav>
+      <Link href="#h">Home</Link>
+      <Link href="#a">About</Link>
+      <Link href="#cont">Contact</Link>
+      <Link href="#p">Project</Link>
+      <Link href="#s">Services</Link>
+      <Link href="#t">Testimonials</Link>
+      <Link href="#f">Footer</Link>
+      
+    </nav>
   const scrollTohome = () => {
     const targethome = document.getElementById("h")
 
