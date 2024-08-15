@@ -1,0 +1,565 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.footer {
+    /* Frame 26 */
+
+    position: absolute;
+    width: 1900px;
+    height: 552px;
+    left: -5px;
+    top: 5048px;
+
+
+}
+
+.rectangle1 {
+   /* Rectangle 39 */
+
+position: absolute;
+width: 1900px;
+height: 552px;
+left: 0px;
+top: 0px;
+
+background: #1E1E1E;
+
+
+}
+
+.rectangle2 {
+  /* Rectangle 40 */
+
+position: absolute;
+width: 1900px;
+height: 84px;
+left: 4px;
+top: 468px;
+
+background: #121212;
+
+}
+
+.copyright {
+    /* © 2023 Mumair All Rights Reserved , Inc. */
+
+    position: absolute;
+    width: 440px;
+    height: 32px;
+    left: 740px;
+    top: 494px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+white-space: nowrap;
+    color: #FFFFFF;
+
+
+}
+
+.mu{
+    font-family: 'Poppins';
+font-size: 21px;
+font-weight: 700;
+line-height: 31.5px;
+letter-spacing: 0.03em;
+text-align: left;
+color:  rgba(253, 111, 0, 1);
+;
+}
+
+
+.frame {
+/* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 807px;
+height: 52px;
+left: 556px;
+top: 241px;
+
+
+
+}
+
+.frame1 {
+/* Frame 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 14px;
+gap: 10px;
+
+width: 93px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+
+.h {
+  /* Home */
+
+width: 65px;
+height: 32px;
+
+/* Nav Bar text 21 */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 32px;
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.frame2 {
+ /* Frame 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 14px;
+gap: 10px;
+
+width: 132px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+}
+
+.a {
+    /* About Me */
+
+    width: 104px;
+    height: 32px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+white-space: nowrap;
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+
+.frame3{
+    /* Frame 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px 14px;
+gap: 10px;
+
+width: 120px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+
+
+.s {
+
+    /* Services */
+
+    width: 92px;
+    height: 32px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+
+}
+
+.frame4 {
+    /* Frame 4 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 14px;
+    gap: 10px;
+
+    width: 116px;
+    height: 52px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+
+.p {
+
+    /* Projects */
+
+    width: 88px;
+    height: 32px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.frame5 {
+    /* Frame 5 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 14px;
+    gap: 10px;
+
+    width: 168px;
+    height: 52px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+}
+
+.t {
+
+    /* Testimonials */
+
+    width: 140px;
+    height: 32px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+
+.frame6 {
+    /* Frame 6 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 14px;
+    gap: 10px;
+
+    width: 118px;
+    height: 52px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 5;
+    flex-grow: 0;
+
+}
+
+.c {
+    /* Contact */
+
+    width: 90px;
+    height: 32px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.logo {
+    /* logo */
+
+    position: absolute;
+    width: 279px;
+    height: 67px;
+    left: 820px;
+    top: 109px;
+
+
+}
+
+/* .Subtract{
+    Subtract
+
+position: absolute;
+left: 0%;
+right: 75.99%;
+top: 0%;
+bottom: 0%;
+
+Main Color
+background: #FD6F00;
+
+} */
+
+.Mumair{
+    /* Mumair */
+
+position: absolute;
+left: 31.18%;
+right: 0.72%;
+top: 5.97%;
+bottom: 5.97%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+
+/* Bg gray */
+color: #FBFBFB;
+
+
+}
+
+
+.socialLinks {
+
+    /* Group 38 */
+
+    /* position: absolute; */
+    width: 205px;
+    height: 32.48px;
+    left: calc(50% - 205px/2 - 3px);
+    top: 373.52px;
+
+
+}
+
+.face {
+    /* Facebook - Negative */
+
+    position: absolute;
+    width: 32.48px;
+    height: 32.48px;
+    left: 857px;
+    top: 373.52px;
+
+}
+
+/* .vector {
+   Vector
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.61%;
+
+background: #FFFFFF;
+
+
+} */
+
+.twit {
+    /* Twitter - Negative */
+
+    position: absolute;
+    width: 32.48px;
+    height: 32.48px;
+    left: 914.51px;
+    top: 373.52px;
+
+}
+
+/* .vector1 {
+
+Vector
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 9.37%;
+bottom: 9.38%;
+
+background: #FFFFFF;
+
+} */
+
+.insta {
+    /* Instagram - Negative */
+
+    position: absolute;
+    width: 32.48px;
+    height: 32.48px;
+    left: 972.02px;
+    top: 373.52px;
+
+}
+
+.vector2 {
+
+/* Vector */
+
+position: absolute;
+left: 70.7%;
+right: 17.3%;
+top: 17.3%;
+bottom: 70.7%;
+
+background: #FFFFFF;
+
+}
+
+.vector3 {
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 24.32%;
+top: 24.32%;
+bottom: 24.32%;
+
+/* background: #FFFFFF; */
+
+
+}
+
+.vector4 {
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.06%;
+top: 0%;
+bottom: 0.02%;
+
+/* background: #FFFFFF; */
+
+
+}
+
+.link {
+    /* LinkedIn - Negative */
+
+    position: absolute;
+    width: 32.48px;
+    height: 32.48px;
+    left: 1029.52px;
+    top: 373.52px;
+}
+
+/* .vector5 {
+
+
+ Vector
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+
+} */

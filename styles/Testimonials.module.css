@@ -1,0 +1,642 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.testimonials{
+    /* Frame 24 */
+
+position: absolute;
+width: 3385px;
+height: 733px;
+left: -757px;
+top: 3700px;
+
+
+}
+
+.group1{
+    /* Group 35 */
+
+/* position: absolute; */
+width: 255px;
+height: 16px;
+left: calc(50% - 255px/2 + 24px);
+top: 717px;
+
+}
+
+.rectangle1{
+    /* Rectangle 36 */
+
+position: absolute;
+width: 57px;
+height: 16px;
+left: 1787px;
+top: 717px;
+
+background: #D9D9D9;
+border-radius: 8px;
+
+}
+
+.rectangle2{
+    /* Rectangle 35 */
+
+position: absolute;
+width: 57px;
+height: 16px;
+left: 1721px;
+top: 717px;
+
+background: #D9D9D9;
+border-radius: 8px;
+
+}
+
+.rectangle3{
+    /* Rectangle 34 */
+
+position: absolute;
+width: 57px;
+height: 16px;
+left: 1655px;
+top: 717px;
+
+background: #FD6F00;
+border-radius: 8px;
+
+}
+
+.rectangle4{
+    /* Rectangle 33 */
+
+position: absolute;
+width: 57px;
+height: 16px;
+left: 1589px;
+top: 717px;
+
+background: #D9D9D9;
+border-radius: 8px;
+
+}
+
+.group2{
+    /* Group 32 */
+
+/* position: absolute; */
+width: 1087px;
+height: 344px;
+left: 0px;
+top: 286px;
+
+opacity: 0.2;
+
+}
+
+.testimonial1{
+    /* Group 31 */
+
+/* position: absolute; */
+width: 716px;
+height: 236px;
+left: 294px;
+top: 341px;
+
+
+}
+
+.b{
+/* CEO */
+
+position: absolute;
+width: 41px;
+height: 29px;
+left: 312px;
+top: 548px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+
+.na{
+/* Name */
+
+position: absolute;
+width: 75px;
+height: 36px;
+left: 312px;
+top: 512px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+
+.pa{
+/* “ */
+
+position: absolute;
+width: 18px;
+height: 48px;
+left: 762px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #FD6F00;
+
+
+}
+
+.po{
+/* “ */
+
+position: absolute;
+width: 18px;
+height: 48px;
+left: 294px;
+top: 341px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #FD6F00;
+
+
+}
+
+.lo{
+    /* Lorem ipsum dolor sit amet consectetur. In enim cursus odio accumsan. Id leo urna velit neque mattis id tellus arcu condimentum. Augue dictum dolor elementum convallis dignissim malesuada commodo ultrices. */
+
+position: absolute;
+width: 698px;
+height: 146px;
+left: 312px;
+top: 366px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 32px;
+text-align: justify;
+letter-spacing: 0.02em;
+z-index: 4;
+color: #424242;
+
+
+}
+
+.ellipse1{
+    /* Ellipse 12 */
+
+position: absolute;
+width: 235px;
+height: 235px;
+left: 48px;
+top: 341px;
+
+background: #D9D9D9;
+
+}
+
+.rectangle5{
+    /* Rectangle 32 */
+
+position: absolute;
+width: 1087px;
+height: 344px;
+left: 0px;
+top: 286px;
+
+background: #F8F8F8;
+border-radius: 14px;
+
+}
+
+.group3{
+    /* Group 33 */
+
+/* position: absolute; */
+width: 1087px;
+height: 344px;
+left: 2298px;
+top: 286px;
+
+opacity: 0.2;
+
+}
+
+
+
+.ellipse2{
+/* Ellipse 11 */
+
+position: absolute;
+width: 235px;
+height: 235px;
+left: 2346px;
+top: 341px;
+border-radius: 50%;
+object-fit: cover;
+background: url('/images/img2.jpg');
+
+}
+
+.rectangle7{
+/* Rectangle 31 */
+
+position: absolute;
+width: 1087px;
+height: 344px;
+left: 2298px;
+top: 286px;
+
+background: #F8F8F8;
+border-radius: 14px;
+
+}
+
+.testimonial2{
+    /* Group 30 */
+    
+    /* position: absolute; */
+    width: 716px;
+    height: 236px;
+    left: 2592px;
+    top: 341px;
+    
+    
+    }
+
+.c{
+/* CEO */
+
+position: absolute;
+width: 41px;
+height: 29px;
+left: 2610px;
+top: 548px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+
+.me{
+/* Name */
+
+position: absolute;
+width: 75px;
+height: 36px;
+left: 2610px;
+top: 512px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+
+.s{
+/* “ */
+
+position: absolute;
+width: 18px;
+height: 48px;
+left: 3060px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #FD6F00;
+
+
+}
+
+.e{
+/* “ */
+
+position: absolute;
+width: 18px;
+height: 48px;
+left: 2592px;
+top: 341px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #FD6F00;
+
+
+}
+
+.la{
+    /* Lorem ipsum dolor sit amet consectetur. In enim cursus odio accumsan. Id leo urna velit neque mattis id tellus arcu condimentum. Augue dictum dolor elementum convallis dignissim malesuada commodo ultrices. */
+
+position: absolute;
+width: 698px;
+height: 146px;
+left: 2610px;
+top: 366px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 32px;
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #424242;
+
+
+}
+
+.group4{
+
+/* Group 34 */
+
+/* position: absolute; */
+width: 1087px;
+height: 344px;
+left: 1149px;
+top: 286px;
+
+}
+
+.rectangle6{
+
+/* Rectangle 30 */
+
+position: absolute;
+width: 1087px;
+height: 344px;
+left: 1149px;
+top: 286px;
+
+background: #F8F8F8;
+border-radius: 14px;
+
+}
+
+.ellipse3{
+/* Ellipse 10 */
+
+position: absolute;
+width: 235px;
+height: 235px;
+left: 1197px;
+top: 341px;
+border-radius: 50%;
+object-fit: cover;
+background: url('/images/img1.jpg');
+
+}
+
+.testimonial3{
+/* Group 29 */
+
+/* position: absolute; */
+width: 716px;
+height: 236px;
+left: 1443px;
+top: 341px;
+
+}
+
+.mo{
+
+/* Lorem ipsum dolor sit amet consectetur. In enim cursus odio accumsan. Id leo urna velit neque mattis id tellus arcu condimentum. Augue dictum dolor elementum convallis dignissim malesuada commodo ultrices. */
+
+position: absolute;
+width: 698px;
+height: 146px;
+left: 1461px;
+top: 366px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 32px;
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #424242;
+
+}
+
+.pm{
+
+/* “ */
+
+position: absolute;
+width: 18px;
+height: 48px;
+left: 1443px;
+top: 341px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #FD6F00;
+
+}
+
+.ka{
+
+/* “ */
+
+position: absolute;
+width: 18px;
+height: 48px;
+left: 1911px;
+top: 472px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #FD6F00;
+
+}
+
+.om{
+
+/* Name */
+
+position: absolute;
+width: 75px;
+height: 36px;
+left: 1461px;
+top: 512px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+
+.jn{
+
+/* CEO */
+
+position: absolute;
+width: 41px;
+height: 29px;
+left: 1461px;
+top: 548px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+/* identical to box height */
+text-align: justify;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+
+.group5{
+    /* Group 14 */
+    
+    /* position: absolute; */
+    width: 932px;
+    height: 214px;
+    left: calc(50% - 932px/2 + 20.5px);
+    top: 0px;
+    
+    
+    }
+
+.hh{
+/* Testimonials */
+
+position: absolute;
+width: 446px;
+height: 98px;
+left: calc(50% - 446px/2 + 20.5px);
+top: 0px;
+
+/* H2 65 */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 65px;
+line-height: 98px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+
+}
+
+.hhh{
+
+/* Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in. Aliquet donec morbi convallis pretium */
+
+position: absolute;
+width: 932px;
+height: 101px;
+left: 1247px;
+top: 113px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 32px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+
+}
+

@@ -1,0 +1,535 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.about {
+
+   /* Nav Bar */
+
+   position: absolute;
+   width: 1470px;
+   height: 675px;
+   left: 200px;
+   top: 1004px;
+
+
+}
+
+.rectangle2 {
+   /* Rectangle 4 */
+   z-index: 4;
+   position: absolute;
+   width: 374px;
+   height: 83px;
+   left: 153px;
+   top: 111px;
+
+   /* background: rgba(253, 111, 0, 0.6); */
+
+}
+
+.abt {
+   /* Group 11 */
+
+   position: absolute;
+   width: 1470px;
+   height: 675px;
+   left: 0px;
+   top: 0px;
+
+
+}
+
+.h {
+
+   /* About Me */
+
+   position: absolute;
+   width: 330px;
+   height: 98px;
+   left: 714px;
+   top: 55px;
+
+   /* H2 65 */
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 65px;
+   line-height: 98px;
+   /* identical to box height */
+   letter-spacing: 0.03em;
+
+   color: #FFFFFF;
+
+
+
+}
+
+.p {
+
+   position: absolute;
+   /* Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in. Aliquet donec morbi convallis pretium. Turpis tempus pharetra */
+
+   position: absolute;
+   width: 756px;
+   height: 101px;
+   left: 714px;
+   top: 168px;
+
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 21px;
+   line-height: 32px;
+   letter-spacing: 0.03em;
+
+   color: #FFFFFF;
+
+
+}
+
+
+.skills {
+   /* Group 10 */
+
+   position: absolute;
+   width: 753px;
+   height: 349px;
+   left: 714px;
+   top: 284px;
+
+
+}
+
+.skill1 {
+   /* Group 8 */
+
+   /* position: absolute; */
+   width: 753px;
+   height: 32px;
+   left: 714px;
+   top: 601px;
+   display: flex;
+
+}
+
+.ellipse1 {
+   /* Ellipse 9 */
+
+   box-sizing: border-box;
+
+   /* position: absolute; */
+   width: 32px;
+   height: 32px;
+   left: 1383px;
+   top: 601px;
+   transform: translate(-300%, -40%);
+   /* background: #EDECEC;  */
+   /* border: 3px solid #FD6F00; */
+   /* box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.2);  */
+
+}
+
+.rectangle3 {
+   /* Rectangle 6 */
+
+   /* position: absolute; */
+   width: 687px;
+   height: 13px;
+   left: 714px;
+   top: 611px;
+   display: flex;
+   background: #FD6F00;
+   border-radius: 6px 0 0 6px;
+
+}
+
+.rectangle4 {
+   /* Rectangle 5 */
+
+   /* position: absolute; */
+   width: 66px;
+   height: 13px;
+   left: 714px;
+   top: 611px;
+   display: flex;
+   background: #EDECEC;
+   border-radius: 0 6px 6px 0;
+
+
+
+}
+
+.graph {
+   /* Graphic Design */
+
+   /* position: absolute; */
+   width: 198px;
+   height: 36px;
+   left: 714px;
+   top: 557px;
+
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 24px;
+   line-height: 32px;
+   /* identical to box height */
+   letter-spacing: 0.03em;
+
+   color: #FFFFFF;
+
+
+}
+
+
+.skill5 {
+   display: flex;
+}
+
+.ellipse2 {
+   /* Ellipse 9 */
+
+   box-sizing: border-box;
+
+   /* position: absolute; */
+   width: 32px;
+   height: 32px;
+   left: 1415px;
+   top: 510px;
+   /* display: flex; */
+   transform: translate(-200%, -40%);
+   /* background: #EDECEC;
+border: 3px solid #FD6F00;
+box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.2); */
+
+}
+
+.rectangle5 {
+   /* Rectangle 6 */
+
+   /* position: absolute; */
+   width: 721px;
+   height: 13px;
+   left: 714px;
+   top: 520px;
+   display: flex;
+   background: #FD6F00;
+   border-radius: 6px 0 0 6px;
+
+}
+
+.rectangle6 {
+   /* Rectangle 5 */
+
+   /* position: absolute; */
+   width: 96px;
+   height: 13px;
+   left: 714px;
+   top: 520px;
+   display: flex;
+   background: #EDECEC;
+   border-radius: 0 6px 6px 0;
+
+
+}
+
+.app {
+   /* App Design */
+
+   /* position: absolute; */
+   width: 147px;
+   height: 36px;
+   left: 714px;
+   top: 466px;
+
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 24px;
+   line-height: 32px;
+   /* identical to box height */
+   letter-spacing: 0.03em;
+
+   color: #FFFFFF;
+
+
+
+}
+
+/* Ellipse 9 */
+
+.skill4 {
+   display: inline-flex;
+}
+
+.ellipse3 {
+   /* Ellipse 9 */
+
+   box-sizing: border-box;
+
+   /* position: absolute; */
+   width: 32px;
+   height: 32px;
+   left: 1351px;
+   top: 419px;
+   transform: translate(-380%, -40%);
+   /* display: flex; */
+   /* background: #EDECEC;
+border: 3px solid #FD6F00;
+box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.2); */
+
+}
+
+.rectangle7 {
+
+   /* Rectangle 6 */
+
+   /* position: absolute; */
+   width: 657px;
+   height: 13px;
+   left: 714px;
+   top: 429px;
+   display: flex;
+   background: #FD6F00;
+   border-radius: 6px 0 0 6px;
+
+}
+
+.rectangle8 {
+   /* Rectangle 5 */
+
+   /* position: absolute; */
+   width: 96px;
+   height: 13px;
+   left: 714px;
+   top: 429px;
+   display: flex;
+   background: #EDECEC;
+   border-radius: 0 6px 6px 0;
+
+}
+
+.web {
+   /* Website Design */
+
+   /* position: absolute; */
+   width: 199px;
+   height: 36px;
+   left: 714px;
+   top: 375px;
+   white-space: nowrap;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 24px;
+   line-height: 32px;
+   /* identical to box height */
+   letter-spacing: 0.03em;
+
+   color: #FFFFFF;
+
+}
+
+.skill2 {
+   /* Group 9 */
+
+   /* position: absolute; */
+   width: 753px;
+   height: 76px;
+   left: 714px;
+   top: 284px;
+
+
+}
+
+.skill3 {
+   /* Group 8 */
+
+   /* position: absolute; */
+   width: 753px;
+   height: 32px;
+   left: 714px;
+   top: 328px;
+   display: flex;
+
+
+}
+
+.ellipse4 {
+   /* Ellipse 9 */
+
+   box-sizing: border-box;
+
+   /* position: absolute; */
+   width: 32px;
+   height: 32px;
+   left: 1383px;
+   top: 400px;
+   transform: translate(-300%, -40%);
+   /* background: #EDECEC;
+border: 3px solid #FD6F00;
+box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.2); */
+
+}
+
+
+.rectangle9 {
+   /* Rectangle 6 */
+
+   /* position: absolute; */
+   width: 687px;
+   height: 13px;
+   left: 714px;
+   top: 400px;
+   display: flex;
+   background: #FD6F00;
+   border-radius: 6px 0 0 6px;
+
+}
+
+.rectangle10 {
+   /* Rectangle 5 */
+
+   /* position: absolute; */
+   width: 66px;
+   height: 13px;
+   left: 714px;
+   top: 440px;
+   display: flex;
+   background: #EDECEC;
+   border-radius: 0 6px 6px 0;
+
+}
+
+.ux {
+   /* UX */
+
+   /* position: absolute; */
+   width: 34px;
+   height: 36px;
+   left: 714px;
+   top: 284px;
+
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 24px;
+   line-height: 36px;
+   /* identical to box height */
+   letter-spacing: 0.03em;
+
+   color: #FFFFFF;
+
+
+}
+
+
+
+.aboutContent {
+   /* Group 7 */
+
+   /* position: absolute; */
+   width: 681px;
+   height: 675px;
+   left: 67.4px;
+   top: 129.19px;
+   overflow: hidden;
+   /* border: 6.74px linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%); */
+
+}
+
+.aboutContent::before{
+   content: "";
+   position: absolute;
+   bottom: 0;
+   width: 560px;
+   height: 560px;
+   left: 67.4px;
+   top: 129.19px;
+   border-radius: 50%;
+   z-index: 3;
+   /* border: 6.72px; */
+   box-shadow: 0px 50px 0px 50px #1E1E1E;;
+   box-sizing: border-box;
+   border-radius: 50%;
+   border: 6px #FD6F00;
+   /* border: 6.74px linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%); */
+
+border-image-source: linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%); 
+
+
+  
+   
+}
+
+
+.ellipse6 {
+   /* Ellipse 4 */
+
+   position: absolute;
+   width: 545.81px;
+   height: 545.81px;
+   left: 67.4px;
+   top: 129.19px;
+z-index:1 ;
+   background: #1E1E1E;
+   box-shadow:  0px 10px 0px 15px #1E1E1E;
+   border: 6.74px linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%);
+   border-image-source: linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%); 
+
+
+
+
+}
+
+
+.profileImage {
+   /* Background copy 2 */
+
+   position: absolute;
+   width: 681px;
+   height: 407px;
+   left: 0px;
+   top: 0px;
+   z-index: 3;
+   object-fit: cover;
+   object-position: 0% 0%;
+   border-radius: 50%;
+   background: url('/images/hero.png');
+
+}
+
+.maskgroup {
+   /* Mask group */
+
+   /* position: absolute; */
+   width: 545.81px;
+   height: 545.81px;
+   bottom: 0;
+   left: 67.4px;
+   top: 129.19px;
+overflow: hidden;
+border-radius: 50%;
+border-image-source: linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%); 
+border: 6.74px linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%);
+
+
+}
+
+
+.profileImage1 {
+   /* Background copy 1 */
+
+   position: absolute;
+   width: 681px;
+   bottom: 0px;
+   height: 693.12px;
+   left: 0px;
+   top: 0;
+   border-radius: 50%;
+   object-fit: cover;
+   z-index: 2;
+
+   /* object-position: 30% 50%; */
+   background: url("/images/hero.png");
+
+}

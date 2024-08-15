@@ -1,0 +1,530 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.hero {
+    /* Frame 27 */
+
+    position: absolute;
+    width: 1400px;
+    height: 686.48px;
+    left: 250px;
+    top: 248px;
+
+
+}
+
+.heroheader {
+    /* Header  */
+
+    position: absolute;
+    width: 1400px;
+    height: 617.24px;
+    left: 0px;
+    top: 0px;
+
+
+}
+
+.rectangle1 {
+    /* Rectangle 4 */
+
+    position: absolute;
+    width: 374px;
+    height: 83px;
+    left: 944px;
+    top: 87px;
+    z-index: 4;
+    /* background: rgba(253, 111, 0, 0.6); */
+
+}
+
+
+
+.herolay {
+    /* Group 6 */
+
+    position: absolute;
+    width: 1400px;
+    height: 617.24px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+
+.heroImage {
+    /* Group 2 */
+
+    /* position: absolute; */
+    width: 485.87px;
+    height: 617.24px;
+    left: 877.64px;
+    top: 131.37px;
+    /* top: 0px; */
+    overflow: hidden;
+}
+
+.heroImage::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 877.64px;
+
+    width: 499px;
+    height: 499px;
+
+    top: 131.37px;
+
+    /* background: transparent; */
+    border-radius: 50%;
+    z-index: 3;
+    box-shadow: 0px 10px 0px 15px #1E1E1E;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 6px solid linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%);
+
+}
+
+.heroImage::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+
+    left: 877.64px;
+
+    width: 499px;
+    height: 499px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 6px linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%);
+    ;
+    border-bottom: 6px linear-gradient(182.68deg, rgba(255, 255, 255, 0) -0.48%, #FF8233 78.41%);
+    ;
+}
+
+
+.ellipse2 {
+    /* Ellipse 4 */
+    content: '';
+    position: absolute;
+    width: 499px;
+    height: 499px;
+    left: 877.64px;
+    top: 131.37px;
+    z-index: 2;
+    border-radius: 50%;
+    background: #1E1E1E;
+    /* background: transparent; */
+    /* box-shadow: 0px 1s0px 0px 15px #1E1E1E; */
+
+}
+
+.mask {
+    /* Mask group */
+
+    /* position: absolute; */
+    width: 485.87px;
+    height: 485.87px;
+    bottom: 0;
+    left: 885px;
+    overflow: hidden;
+    border-radius: 50%;
+
+}
+
+.img1 {
+    /* Layer 0 copy 3 */
+
+    position: absolute;
+    width: 537px;
+
+    bottom: 0px;
+    left: 862px;
+    top: 11px;
+    z-index: 2;
+    height: 617.24px;
+    object-fit: cover;
+    border-radius: 50%;
+    background: url('/images/hero-image.png');
+
+}
+
+
+/* .ellipse1 {
+    Ellipse 5
+
+    position: absolute;
+    width: 485.87px;
+    height: 485.87px;
+    bottom: 0;
+    left: 877.64px;
+    bottom: 0;
+    z-index: 2;
+    overflow: hidden;
+    border-radius: 50%;
+    box-shadow: 0px 10px 0px 15px #1E1E1E;
+} */
+
+
+
+
+.img {
+
+    /* Layer 0 copy 4 */
+
+    position: absolute;
+    width: 538px;
+    bottom: 0;
+    left: 862px;
+    /* width:538px ; */
+    height: 352.41px;
+    /* left: 855px; */
+    top: 11px;
+    z-index: 3;
+    object-fit: cover;
+    object-position: 0% 0%;
+    border-radius: 50%;
+    background: url("/images/hero-image.png");
+
+}
+
+
+
+
+.ctaButton {
+    /* Btn */
+
+    position: absolute;
+    width: 188px;
+    height: 52px;
+    left: 7px;
+    top: 540px;
+
+
+
+}
+
+
+.para {
+    /* Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in. Aliquet donec morbi convallis pretium. Turpis tempus pharetra */
+
+    position: absolute;
+    width: 698px;
+    height: 101px;
+    left: 7px;
+    top: 417px;
+
+    /* Nav Bar text 21 */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: justify;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+}
+
+.rectangle2 {
+    /* Rectangle 1 */
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 10%;
+    bottom: 0%;
+
+    background: #FD6F00;
+    border-radius: 5px;
+
+}
+
+.ctaButton:hover{
+    cursor: pointer;
+    scroll-behavior: auto;
+}
+
+.hire {
+    /* Hire Me */
+
+    position: absolute;
+    left: 28.19%;
+    right: 27.66%;
+    top: 32.69%;
+    bottom: 34.62%;
+    z-index: 2;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    /* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+    /* leading-trim: both;
+text-edge: cap; */
+    text-align: justify;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+
+}
+
+
+
+
+
+
+.heroText {
+    /* Group 5 */
+
+    /* position: absolute; */
+    width: 714px;
+    height: 292px;
+    left: 0px;
+    top: 97px;
+
+
+}
+
+.p1 {
+    /* Muhammad Umair */
+
+    position: absolute;
+    width: 324px;
+    height: 48px;
+    left: 4px;
+    top: 139px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    color: #FD6F00;
+
+
+}
+
+.p2 {
+
+    /* Hi I am */
+
+    position: absolute;
+    width: 89px;
+    height: 36px;
+    left: 7px;
+    top: 97px;
+
+    /* Small Heading 24 */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+
+}
+
+.h1 {
+    /* UI & UX */
+
+    position: absolute;
+    width: 383px;
+    height: 120px;
+    left: 0px;
+    top: 174px;
+
+    /* Main heading H1 */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 120%;
+    /* identical to box height, or 120px */
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+
+    color: #FFFFFF;
+
+
+}
+
+.h2 {
+    /* Designer */
+
+    position: absolute;
+    width: 484px;
+    height: 120px;
+    left: 230px;
+    top: 269px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 120%;
+    /* identical to box height, or 120px */
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+
+
+}
+
+.herofooter {
+    /* Group 39 */
+
+    /* position: absolute; */
+    width: 205px;
+    height: 32.48px;
+    left: calc(50% - 205px/2 + 420.5px);
+    top: 654px;
+
+
+}
+
+.linkedin {
+    /* LinkedIn - Negative */
+
+    position: absolute;
+    width: 32.48px;
+    height: 32.48px;
+    left: 1190.52px;
+    top: 654px;
+
+
+
+}
+
+/* .vector6{
+Vector
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+} */
+
+.instagram {
+    /* Instagram - Negative */
+
+    position: absolute;
+    width: 32.48px;
+    height: 32.48px;
+    left: 1133.02px;
+    top: 654px;
+
+
+
+}
+
+.vector3 {
+    /* Vector */
+
+    position: absolute;
+    left: 70.7%;
+    right: 17.3%;
+    top: 17.3%;
+    bottom: 70.7%;
+
+    background: #FFFFFF;
+
+
+}
+
+.vector4 {
+    /* Vector */
+
+    position: absolute;
+    left: 24.32%;
+    right: 24.32%;
+    top: 24.32%;
+    bottom: 24.32%;
+
+    /* background: #FFFFFF; */
+
+}
+
+.vector5 {
+    /* Vector */
+
+    position: absolute;
+    left: 0%;
+    right: 0.06%;
+    top: 0%;
+    bottom: 0.02%;
+
+    /* background: #FFFFFF; */
+
+}
+
+.twitter {
+    /* Twitter - Negative */
+
+    position: absolute;
+    width: 32.48px;
+    height: 32.48px;
+    left: 1075.51px;
+    top: 654px;
+
+
+}
+
+/* .vector2{
+Vector
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 9.37%;
+bottom: 9.38%;
+
+background: #FFFFFF;
+
+} */
+
+.facebook {
+    /* Facebook - Negative */
+
+    position: absolute;
+    width: 32.48px;
+    height: 32.48px;
+    left: 1018px;
+    top: 654px;
+
+
+}
+
+/* .vector1{
+    Vector
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.61%;
+
+background: #FFFFFF;
+
+
+} */
