@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-   basePath: "/portfolio-website",
+   basePath: "/Personal_Portfolio_Landing_Page",
   output: "export",  // <=== enables static exports
   reactStrictMode: true,
 };
