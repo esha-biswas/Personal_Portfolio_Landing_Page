@@ -5,8 +5,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "react-scripts build",
-    "start": "react-scripts start",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
@@ -16,7 +16,6 @@
     "next": "^14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "react-scripts": "^5.0.1",
     "styled-components": "^6.1.12"
   },
   "devDependencies": {
