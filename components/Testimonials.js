@@ -34,7 +34,7 @@ export default function Testimonials() {
                 </svg>
                 </div>
                 <div  >
-                    <Image src="public/images/img1.jpg" alt="Client 1" className={styles.ellipse3} width={235} height={235} layout="fixed" priority={true}/>
+                    <Image src="./public/images/img1.jpg" alt="Client 1" className={styles.ellipse3} width={235} height={235} layout="fixed" priority={true}/>
                 </div>
                 <div className={styles.testimonial3}>
                 
@@ -54,7 +54,7 @@ export default function Testimonials() {
                 </svg>
                 </div>
                 <div >
-                    <Image src="public/images/img2.jpg" alt="Client 1" className={styles.ellipse2} width={235} height={235} layout="fixed" priority={true}/>
+                    <Image src="./public/images/img2.jpg" alt="Client 1" className={styles.ellipse2} width={235} height={235} layout="fixed" priority={true}/>
                     
                     
                     </div>

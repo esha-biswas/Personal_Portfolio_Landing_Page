@@ -12,14 +12,14 @@ export default function About() {
                 <div className={styles.p}>Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in. Aliquet donec morbi convallis pretium. Turpis tempus pharetra</div>
                 <div className={styles.aboutContent}>
                     <div >
-                        <Image src="public/images/hero.png" alt="Profile" className={styles.profileImage} width={681} height={407} layout="fixed" priority={true}/>
+                        <Image src="./public/images/hero.png" alt="Profile" className={styles.profileImage} width={681} height={407} layout="fixed" priority={true}/>
 
                     </div>
 
 
                     <div className={styles.maskgroup}>
                         
-                            <Image src="public/images/hero.png" alt="Profile" className={styles.profileImage1}width={681} height={693.12} layout="fixed" priority={true}  />
+                            <Image src="./public/images/hero.png" alt="Profile" className={styles.profileImage1}width={681} height={693.12} layout="fixed" priority={true}  />
                         
                         
                     </div>

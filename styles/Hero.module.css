@@ -148,7 +148,7 @@
     height: 617.24px;
     object-fit: cover;
     border-radius: 50%;
-    background: url('public/images/hero-image.png');
+    background: url('./public/images/hero-image.png');
 
 }
 
@@ -187,7 +187,7 @@
     object-fit: cover;
     object-position: 0% 0%;
     border-radius: 50%;
-    background: url("public/images/hero-image.png");
+    background: url("./public/images/hero-image.png");
 
 }
 
