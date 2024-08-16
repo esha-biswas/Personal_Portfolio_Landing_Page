@@ -101,7 +101,7 @@ export default function Services() {
 </svg>
 
                         </div>
-                        <div ><Image src="/images/ss2.png" alt='logo' className={styles.vector11} width={78} height={97} layout="fixed" priority={true}/>
+                        <div ><Image src="./images/ss2.png" alt='logo' className={styles.vector11} width={78} height={97} layout="fixed" priority={true}/>
                         </div>
                     </div>
                     <div className={styles.app} >App Design</div>
@@ -185,7 +185,7 @@ export default function Services() {
                                 <path d="M2.69465 5.01249C3.72517 5.01249 4.58208 4.13145 4.55706 3.10225L2.60487 1.29145C1.60357 1.33911 0.80897 2.19291 0.834072 3.19249L0.834073 3.19256C0.859126 4.18522 1.69979 5.01249 2.69465 5.01249ZM4.55705 3.10213C4.5319 2.06295 3.64142 1.24179 2.60521 1.29144L4.55705 3.10213Z" fill="#FD6F00" stroke="#FD6F00" />
                             </svg>
                             </div>
-                            <div ><Image src="/images/ss1.png" alt='logo' className={styles.vector30} width={90} height={90} layout="fixed" priority={true}/>
+                            <div ><Image src="./images/ss1.png" alt='logo' className={styles.vector30} width={90} height={90} layout="fixed" priority={true}/>
                             </div>
                             <div className={styles.ui}>UI/UX </div>
                             <div className={styles.lorem}>Lorem ipsum dolor sit amet consectetur. Morbi diam nisi nam diam interdum</div>
