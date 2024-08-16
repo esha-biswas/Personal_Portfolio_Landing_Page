@@ -66,10 +66,10 @@ export default function Home() {
                                 </defs>
                             </svg>
                         </div>
-                        <div ><Image src="./public/hero-image.png" alt="UI/UX Designer" className={styles.img} width={538} height={352.41} layout="fixed" priority={true} /></div>
+                        <div ><Image src="/hero-image.png" alt="UI/UX Designer" className={styles.img} width={538} height={352.41} layout="fixed" priority={true} /></div>
                         <div className={styles.mask}>
                             <div className={styles.ellipse1}>
-                                <Image src="./public/hero-image.png" alt="UI/UX Designer" className={styles.img1}  width={537} height={617.24} layout="fixed" priority={true} />
+                                <Image src="/hero-image.png" alt="UI/UX Designer" className={styles.img1}  width={537} height={617.24} layout="fixed" priority={true} />
                             </div>
                         </div>
 
