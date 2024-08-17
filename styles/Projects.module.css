@@ -605,7 +605,7 @@
     height: 56px;
     left: 451px;
     top: 257px;
-
+    white-space: nowrap;
     background: #FD6F00;
     border: 0.4px solid #545454;
     border-radius: 12px;
